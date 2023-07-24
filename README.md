@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/shwetha-hegde-375733239/](https://www.linkedin.com/in/shwetha-hegde-375733239/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shwetha hegde" height="30" width="40" /></a>
-<a href="[https://www.hackerearth.com/@shweta08386](https://www.hackerrank.com/shweta08386?hr_r=1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shweta08386" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shwetha-hegde-375733239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shwetha hegde" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shweta08386?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shweta08386" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
