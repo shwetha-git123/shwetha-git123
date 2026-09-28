@@ -1,24 +1,145 @@
-<h1 align="center">Hi 👋, I'm Shwetha</h1>
-<h3 align="center">Passionate Java Full Stack Developer | Problem Solver | Continuous Learner</h3>
+<h1 align="center">Hi 👋, I'm Shwetha Hegde</h1>
 
-- 🌱 I’m currently learning **Spring,React**
+<h3 align="center">QA Engineer | Manual & Automation Testing</h3>
 
-- 💬 Ask me about **SQL,HTML,CSS,JavaScript,Java**
-
-- 📫 How to reach me **shweta08386@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shwetha-hegde-375733239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shwetha hegde" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shweta08386?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shweta08386" height="30" width="40" /></a>
+<p align="center">
+  QA Engineer with 3 years of experience in end-to-end software testing, web application testing, API testing, backend validation, and test automation.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwetha-git123&show_icons=true&locale=en&layout=compact" alt="shwetha-git123" /></p>
+### 👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetha-git123&show_icons=true&locale=en" alt="shwetha-git123" /></p>
+* 🔍 QA Engineer with **3 years of experience** in software testing
+* 🧪 Experienced in **Functional, Regression, Smoke, Sanity, Integration & End-to-End Testing**
+* 🔌 Experienced in **API Testing using Postman**
+* 🗄️ Experienced in **SQL, MySQL & Snowflake** for backend and data validation
+* ⚡ Experience in **Load, Stress & Volume Testing**
+* 🐞 Experienced in **Defect Management using JIRA**
+* 🔄 Working in **Agile/Scrum** environments
+* 🤖 Exploring **AI-assisted test automation**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetha-git123&" alt="shwetha-git123" /></p>
+---
 
+### 🛠️ Testing & Automation Skills
+
+**Testing**
+
+`Functional Testing` `Regression Testing` `Smoke Testing` `Sanity Testing`
+`Integration Testing` `System Testing` `End-to-End Testing` `Cross-Browser Testing`
+`API Testing` `Backend Testing` `Data Validation` `Performance Testing`
+
+**Automation**
+
+`Playwright` `JavaScript`
+
+**API & Backend**
+
+`Postman` `REST API` `HTTP/HTTPS` `JSON`
+
+**Database**
+
+`SQL` `MySQL` `Snowflake`
+
+**Programming**
+
+`Java` `JavaScript` `Python`
+
+**Tools & Platforms**
+
+`JIRA` `Git` `Oracle Eloqua` `Adobe Marketo` `Salesforce` `HubSpot`
+
+---
+
+### 💼 Professional Experience
+
+**QA Engineer | Portqii**
+
+📍 Bengaluru, India | Aug 2023 – Present
+
+* Owned QA activities across multiple marketing-automation applications
+* Designed and executed functional, regression, smoke, sanity, integration, UI, backend and end-to-end test scenarios
+* Performed API testing using **Postman**
+* Validated backend and migration data using **SQL, MySQL and Snowflake**
+* Performed **load, stress and volume testing**
+* Managed defects and regression validation using **JIRA**
+* Participated in sprint planning, backlog grooming, daily stand-ups and retrospectives
+
+---
+
+### 🚀 Key Projects
+
+#### 🤖 Agent Studio — AI-Powered Marketing Automation
+
+QA for an AI-integrated platform with task-specific agents connected with:
+
+`Eloqua` `Marketo` `Salesforce` `HubSpot`
+
+* Tested agent workflows from input to final output
+* Validated functional behavior, integrations, accuracy and consistency
+* Performed regression testing for new changes
+* Used Claude Code to assist in creating and automating recurring test scenarios using Playwright & JavaScript
+
+#### 📊 Audienz.ai — Segmentation Platform
+
+QA for a segmentation platform supporting source-to-destination contact migration.
+
+* Functional, regression, smoke, API, volume and stress testing
+* Validated contact transformation and data mapping
+* Performed source-to-destination data validation using SQL
+* Tested data integrity across migration workflows
+
+#### 🔄 Portqii Apps for Eloqua
+
+End-to-end QA across:
+
+* Asset Transporter
+* Asset Dependency Manager
+* Asset Naming Assistant
+* Asset Version Control
+* Campaigns Calendar
+
+Performed UI, backend, API, integration, negative, boundary, regression and end-to-end testing.
+
+Validated asset transfers across Eloqua instances and monitored discrepancies across **7,000+ assets**.
+
+---
+
+### 📚 Currently Improving
+
+* 🎭 Advanced Playwright Automation
+* 🧩 Automation Framework Design
+* 🔌 API Automation
+* 💻 JavaScript for Test Automation
+* 🗄️ Advanced SQL & Database Testing
+* ⚡ Performance Testing
+* 🔄 CI/CD & GitHub Actions
+* 🤖 AI-Assisted Test Automation
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/shwetha-hegde-375733239/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shwetha Hegde" height="30" width="40" />
+</a>
+</p>
+
+📫 **Email:** [shwetha268335@gmail.com](mailto:shwetha268335@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwetha-git123&show_icons=true&locale=en&layout=compact" alt="shwetha-git123" />
+</p>
+
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetha-git123&show_icons=true&locale=en" alt="shwetha-git123" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetha-git123" alt="shwetha-git123" />
+</p>
