@@ -132,14 +132,14 @@ Validated asset transfers across Eloqua instances and monitored discrepancies ac
 
 ### 📊 GitHub Stats
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwetha-git123&show_icons=true&locale=en&layout=compact" alt="shwetha-git123" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shwetha-git123&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetha-git123&show_icons=true&locale=en" alt="shwetha-git123" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetha-git123&layout=compact&locale=en" alt="Top Languages" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetha-git123" alt="shwetha-git123" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shwetha-git123" alt="GitHub Streak" />
 </p>
